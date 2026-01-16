@@ -1,5 +1,6 @@
 ## Well is nothing here to see (just for now)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Comic+Sans+MS&weight=800&size=30&duration=4990&pause=1000&width=435&lines=About+Me)](https://git.io/typing-svg)
+## Im just a normal developer:)
 <!--
 **KiLiSAMEYT/KiLiSAMEYT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
