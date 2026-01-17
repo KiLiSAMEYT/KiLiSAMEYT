@@ -3,11 +3,7 @@
 ## Im just a normal developer:)
 
 
-<h2 align="center">Sơ Đồ Contribution</h2>
-<div align="center">
-  <img src="profile-3d-contrib/profile-night-rainbow.svg" alt="3D Profile" width="100%" />
-</div>
-<br>
+![](./profile-3d-contrib/profile-night-rainbow.svg)
 
 <h2 align="center">🐍 Fire Snake</h2>
 <div align="center">
