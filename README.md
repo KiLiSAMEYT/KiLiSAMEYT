@@ -1,17 +1,20 @@
 ## Well is nothing here to see (just for now)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Comic+Sans+MS&weight=800&size=30&duration=4990&pause=1000&width=435&lines=About+Me)](https://git.io/typing-svg)
 ## Im just a normal developer:)
-<!--
-**KiLiSAMEYT/KiLiSAMEYT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2 align="center">Sơ Đồ Contribution</h2>
+<div align="center">
+  <img src="profile-3d-contrib/profile-night-rainbow.svg" alt="3D Profile" width="100%" />
+</div>
+<br>
+
+<h2 align="center">🐍 Fire Snake</h2>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HYowshi/HYowshi/output/github-contribution-grid-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HYowshi/HYowshi/output/github-contribution-grid-snake-orange.svg" />
+    <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/HYowshi/HYowshi/output/github-contribution-grid-snake-orange.svg" />
+  </picture>
+</div>
+
