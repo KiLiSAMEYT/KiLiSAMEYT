@@ -3,7 +3,7 @@
 ## Im just a normal developer:)
 
 
-![](./github-profile-3d-contrib-0.9.1/profile-night-rainbow.svg)
+![](./profile-3d-contrib/profile-night-rainbow.svg)
 
 <h2 align="center">🐍 Fire Snake</h2>
 <div align="center">
