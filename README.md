@@ -5,7 +5,7 @@
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 
-<h2 align="center">🐍 Fire Snake</h2>
+<h4 align="center">🐍 Fire Snake</h4>
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HYowshi/HYowshi/output/github-contribution-grid-snake.svg" />
